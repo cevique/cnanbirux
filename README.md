@@ -1,12 +1,11 @@
-- 🥂 Hi, I’m The Main Guy AKA Sinan.
+- 🥂 Hi, I’m Ayato Cnan Bashiro.
 - 👀 I’m interested in developing an all-rounder knowlege.
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on Web Development.
-- 📫 How to reach me? Just send me a mail at sinanulbashir@gmail.com
-- 😄 Pronouns: he/him
+- 📫 How to reach me? Just send me a message at Discord: @cnanbirux
 - ⚡ Fun fact: I reply quickly but can be late sometimes.
 
 <!---
-sinanthemainguy/sinanthemainguy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cnanbirux/cnanbirux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
