@@ -1,4 +1,4 @@
-- 🥂 Hi, I’m Ayato Cnan Bashiro.
+- 🥂 Hi, I’m Ayato Cnan Hashiro.
 - 👀 I’m interested in developing an all-rounder knowlege.
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on Web Development.
