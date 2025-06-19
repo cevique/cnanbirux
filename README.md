@@ -1,11 +1,27 @@
-- 🥂 Hi, I’m Ayato Cnan Hashiro.
-- 👀 I’m interested in developing an all-rounder knowlege.
-- 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on Web Development.
-- 📫 How to reach me? Just send me a message at Discord: @cnanbirux
-- ⚡ Fun fact: I reply quickly but can be late sometimes.
+# Hi, I'm Cevique! 👋
 
-<!---
-cnanbirux/cnanbirux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **self-taught software developer** with a strong passion for:
+
+- **Linux & Android** 🌱
+- **Free/libre, privacy-friendly software** 🔒
+
+I believe in the power of open-source and love contributing to projects that make a positive impact.
+
+Feel free to check out my repositories, and let's connect! 🙌
+
+---
+
+### 🛠️ Technologies I Use:
+- **Languages**: Python, TypeScript, JavaScript, C, C++, Rust(in future)
+- **Tools**: Vim, Git, VS Code
+- **OS**: GNU/Linux (Debian, Arch)
+
+---
+
+### 📚 Interests:
+- Philosophy & Critical Thinking
+- Investigative Journalism
+- Literary Fiction & Non-Fiction
+- Thought-provoking Essays
+
+Let's code, create, and dive into deep discussions! 💬
